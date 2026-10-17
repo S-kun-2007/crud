@@ -100,7 +100,7 @@ La aplicación usa almacenamiento local del navegador para conservar tareas y pa
 - Santiago Torregroza
 - Sebastián Torregroza
 - Gisell Falcón
-- Owen López 
+- Owen López
 
 ## Nota
 
