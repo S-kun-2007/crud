@@ -105,4 +105,4 @@ La aplicación usa almacenamiento local del navegador para conservar tareas y pa
 ## Nota
 
 Este proyecto está pensado como un gestor personal de tareas con una experiencia simple, visualmente limpia y funcional en el navegador.
-Ahora tiene deploy en AWS
+Ahora tiene deploy en AWS.
